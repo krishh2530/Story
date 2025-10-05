@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishna PT
+# 👋 Hi, I'm Krishna Pradeep Tambatkar
 
 🎓 Final-Year B.Tech. student in **Electronics and Computer Engineering** passionate about **high-performance systems, machine learning, and cybersecurity**.  
 I enjoy building **secure, scalable, and intelligent solutions** that merge **software, hardware, and analytics**.
